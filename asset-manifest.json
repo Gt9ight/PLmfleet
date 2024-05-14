@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/plmfleet/static/css/main.77b27f27.css",
-    "main.js": "/plmfleet/static/js/main.d863d57f.js",
-    "static/js/453.afec57ab.chunk.js": "/plmfleet/static/js/453.afec57ab.chunk.js",
-    "index.html": "/plmfleet/index.html",
-    "main.77b27f27.css.map": "/plmfleet/static/css/main.77b27f27.css.map",
-    "main.d863d57f.js.map": "/plmfleet/static/js/main.d863d57f.js.map",
-    "453.afec57ab.chunk.js.map": "/plmfleet/static/js/453.afec57ab.chunk.js.map"
+    "main.css": "/PLmfleet/static/css/main.77b27f27.css",
+    "main.js": "/PLmfleet/static/js/main.e9c16f16.js",
+    "static/js/453.afec57ab.chunk.js": "/PLmfleet/static/js/453.afec57ab.chunk.js",
+    "index.html": "/PLmfleet/index.html",
+    "main.77b27f27.css.map": "/PLmfleet/static/css/main.77b27f27.css.map",
+    "main.e9c16f16.js.map": "/PLmfleet/static/js/main.e9c16f16.js.map",
+    "453.afec57ab.chunk.js.map": "/PLmfleet/static/js/453.afec57ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77b27f27.css",
-    "static/js/main.d863d57f.js"
+    "static/js/main.e9c16f16.js"
   ]
 }
