@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plmfleet/static/css/main.77b27f27.css",
+    "main.js": "/plmfleet/static/js/main.d863d57f.js",
+    "static/js/453.afec57ab.chunk.js": "/plmfleet/static/js/453.afec57ab.chunk.js",
+    "index.html": "/plmfleet/index.html",
+    "main.77b27f27.css.map": "/plmfleet/static/css/main.77b27f27.css.map",
+    "main.d863d57f.js.map": "/plmfleet/static/js/main.d863d57f.js.map",
+    "453.afec57ab.chunk.js.map": "/plmfleet/static/js/453.afec57ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b27f27.css",
+    "static/js/main.d863d57f.js"
+  ]
+}
